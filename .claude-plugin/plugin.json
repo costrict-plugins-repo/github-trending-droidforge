@@ -1,0 +1,14 @@
+{
+  "name": "droidforge",
+  "description": "Automate every repetitive Android dev task — keystore creation, signing config, version bumping, Gradle version catalog management, new app scaffolding, and release checklists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SUDARSHANCHAUDHARI",
+    "url": "https://github.com/SUDARSHANCHAUDHARI"
+  },
+  "homepage": "https://github.com/SUDARSHANCHAUDHARI/DroidForge",
+  "repository": "https://github.com/SUDARSHANCHAUDHARI/DroidForge",
+  "privacy_policy": "https://sudarshanchaudhari.github.io/droidforge-claude-plugin-privacy-policy/",
+  "license": "MIT",
+  "keywords": ["android", "kotlin", "gradle", "keystore", "solo-dev", "mobile", "google-play"]
+}
